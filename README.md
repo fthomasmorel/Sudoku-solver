@@ -3,6 +3,8 @@ A sudoku solver written in Haskell for Euler Project #96.
 
 Please uncomment line #22 in the main function if you want to get the euler answer
 
+![Example](example.gif)
+
 ## Data Structure
 
 To manipulate the grid, i define some types :
