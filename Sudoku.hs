@@ -4,21 +4,6 @@ import Data.List
 import Data.Maybe
 
 --Define types for an easier reading
-
--- [---|---|---] -> Line  }
--- [-S-|-S-|-S-]          } => Vector
--- [---|---|---]          }
--- ----|---|----
--- [---|---|---] -> Line
--- [-S-|-S-|-S-]
--- [---|---|---]
--- ----|---|----
--- [---|---|---] -> Line
--- [---|---|---]
--- [---|---|---]
---   ^
---   Column
-
 type Line = [Int]
 type Column = [Int]
 type Vector = [Square]
