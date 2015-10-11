@@ -22,9 +22,9 @@ To manipulate the grid, i define some types :
  ^
  Column
 
- S as Square : 3x3 Matrix
  Line : a 1x9 List of Int
  Column : a 1x9 List of Int
+ S for Square : 1x3 List of Line
  Vector : a 1x3 List of Square (for the line of the sudoku)
  Sudoku : a 1x3 List of Vector
 ```
