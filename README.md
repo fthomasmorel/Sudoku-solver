@@ -1,7 +1,6 @@
 # Sudoku-solver
-A sudoku solver written in Haskell for Euler Project #96.
 
-Please uncomment line #22 in the main function if you want to get the euler answer
+A sudoku solver written in Haskell for Euler Project #96.
 
 ![Example](example.gif)
 
